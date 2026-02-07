@@ -1,4 +1,4 @@
-# Logistic Regression From Scratch
+# Logistic Regressions From Scratch
 
 ## Project Overview
 This project implements Logistic Regression from scratch using NumPy.
